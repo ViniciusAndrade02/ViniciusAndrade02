@@ -1,16 +1,20 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-<!--
-**ViniciusAndrade02/ViniciusAndrade02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <h1>Salve Salve!!! 👋</h1>
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <h3>-> Sou um Estudante de<span style="color:#5EEAAF"> Análise de Desenvolvimento de Sistemas</span> na Estácio.Dedico diariamente ao estudo da programação, com o objetivo de me tornar um <span style="color:#5EEAAF">Devoloper Full-Stack!!!</span></h3>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <p>idchudshuhvduvhughdgvydgvydvgyvd</p>
+</div>
+
+<div>
+
+
+  ![ViniciusAndrade02 GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusAndrade02&show_icons=true&theme=merko)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+</div>
