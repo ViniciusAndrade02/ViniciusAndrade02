@@ -7,7 +7,7 @@
 </div>
 
 <div>
-  <h2>Tecnologias com <strong>Front-End</strong> ⤵</h2>
+  <h2><strong>Front-End</strong> ⤵</h2>
 </div>
 
 <div style="display: inline_block">
@@ -20,7 +20,7 @@
   <img style="padding-right: 10px;"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 
 <div>
-  <h2>Tecnologias com Back-end ⤵</h2>
+  <h2>Back-end ⤵</h2>
 </div>
 
 <div style="display: inline_block">
