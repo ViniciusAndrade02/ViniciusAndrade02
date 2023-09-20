@@ -3,9 +3,7 @@
 </div>
 
 <div>
-  <h3>-> Sou um Estudante de Análise de Desenvolvimento de Sistemas na Estácio.Dedico diariamente ao estudo da programação, com o objetivo de me tornar um Devoloper Full-Stack!!!</h3>
-
-
+  <h3>-> Um Estudante de Análise de Desenvolvimento de Sistemas na Estácio que se dedico diariamente ao estudo da programação, com o objetivo de se tornar um Devoloper Full-Stack!!! <-</h3>
 </div>
 
 <div>
