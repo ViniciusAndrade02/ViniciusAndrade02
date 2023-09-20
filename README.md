@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h3>-> Um Estudante de Análise de Desenvolvimento de Sistemas na Estácio que se dedica diariamente ao estudo da programação, com o objetivo de se tornar um Devoloper Full-Stack!!! <-</h3>
+  <h3>-> Um Estudante de Análise de Desenvolvimento de Sistemas na Estácio que se dedico diariamente ao estudo da programação, com o objetivo de se tornar um Devoloper Full-Stack!!! <-</h3>
 </div>
 
 <div>
@@ -39,6 +39,6 @@
 
   ![ViniciusAndrade02 GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusAndrade02&show_icons=true&theme=merko)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndrade02&layout=compact)
 
 </div>
