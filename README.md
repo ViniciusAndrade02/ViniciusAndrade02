@@ -4,8 +4,7 @@
 
 <div>
   <h3>-> Sou um Estudante de Análise de Desenvolvimento de Sistemas na Estácio.Dedico diariamente ao estudo da programação, com o objetivo de me tornar um Devoloper Full-Stack!!!</h3>
-  <span style="color:red">Sou um Estudante de Análise de Desenvolvimento de Sistemas na Estácio.</span>
-<span style="color:blue">Dedico diariamente ao estudo da programação, com o objetivo de me tornar um Developer Full-Stack!!!</span>
+
 
 </div>
 
