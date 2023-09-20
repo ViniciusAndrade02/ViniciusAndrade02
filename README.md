@@ -7,7 +7,7 @@
 </div>
 
 <div>
-  <h2>Tecnologias com Front-End ⤵</h2>
+  <h2>Tecnologias com <strong>Front-End</strong> ⤵</h2>
 </div>
 
 <div style="display: inline_block">
