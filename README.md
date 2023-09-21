@@ -39,6 +39,6 @@
 
   ![ViniciusAndrade02 GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusAndrade02&show_icons=true&theme=merko)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndrade02&layout=compact)
-
 </div>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAndrade02&layout=compact)
